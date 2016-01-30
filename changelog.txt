@@ -3,6 +3,18 @@ Format:
 xx/xx/xxxx xx:xx(AM/PM) - Name
 Change log message
 
+1/28/2016 4:43PM - Anderson
+Link 5 fixed
+
+1/28/2016 3:47PM - Anderson
+Last link fixed again
+
+1/28/2016 12:35PM - Justin
+Link 8 fixed
+
+1/28/2016 11:55AM - Justin
+Link 3 fixed
+
 1/28/2016 11:53AM - Anderson
 Last link fixed
 

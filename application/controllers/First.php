@@ -28,9 +28,17 @@ class First extends Application{
 
   function zzz()
   {
-      $this->data['pagebody'] = 'first';	// this is the view we want shown
+      $this->data['pagebody'] = 'justone';	// this is the view we want shown
       $record = $this->quotes->get(1);
       $this->data = array_merge($this->data, $record);
+      $this->render();
+  }
+  
+  function gimmie($id)
+  {
+	$this->data['pagebody'] = 'justone';	// this is the view we want shown
+	$record = $this->quotes->get($id);
+	$this->data = array_merge($this->data, $record);
       $this->render();
   }
 }
